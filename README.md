@@ -1,5 +1,6 @@
 AP7215-33YG-13
 ==============
+![](./images/pins.jpg)
 ![](./images/circuit.jpg)
 
 ### Buy
