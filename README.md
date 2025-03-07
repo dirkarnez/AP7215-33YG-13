@@ -9,6 +9,9 @@ AP7215-33YG-13
 ### Datasheet
 - https://www.diodes.com/assets/Datasheets/AP7215.pdf
 
+### Perfboard
+![](./images/perfboard-with-notes.jpeg)
+
 ### Schematics
 - https://docs.arduino.cc/resources/schematics/ABX00004-schematics.pdf
   - Page 2
